@@ -20,7 +20,11 @@
   },
   "homepage": "https://github.com/mradamh/eboshi_api_shootout",
   "dependencies": {
-    "hapi": "^10.1.0"
+    "babel": "^5.8.23",
+    "hapi": "^10.1.0",
+    "hapi-bookshelf-models": "^1.5.0",
+    "hapi-bookshelf-serializer": "^2.1.0",
+    "mysql": "^2.9.0"
   },
   "devDependencies": {
     "gulp": "^3.9.0",
